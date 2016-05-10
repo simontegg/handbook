@@ -2,8 +2,6 @@
 
 ## Edit Permissions 
 
- * If you have edit permissions follow the [Gitbooks based workflow](#gitbooks-based-workflow)
- 
  * If you don't have edit permissions follow the [Github based workflow](#github-based-workflow)
 
  * Once a maintainer has merged in your contribution they will make you a handbook maintainer and you will have edit and merge permissions. 
@@ -25,9 +23,6 @@
 
 A maintainer will merge your contribution and make you a fellow maintainer. 
 
-## Gitbooks based workflow
-
-If you already have edit permissions you can use the [Gitbooks workflow](https://help.gitbook.com/editor/draft.html).
 
 ## Handbook Maintainers
 
