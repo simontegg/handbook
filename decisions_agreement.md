@@ -10,7 +10,7 @@ Enspiral is also a network building shared commons, and pursuing shared aspirati
 
 ### Decision Protocol: Consensus 
 
-For formal decisions, Enspiral uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), a methodology with a specific meaning and practice. Consensus does not mean unanimous agreement or engagement from everyone on all decisions. The key concept is consent (you can live with it), which is distinct from agreement (it’s your preference or first choice). 
+For formal decisions, Enspiral uses [consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making) with a fallback to majority or super-majority voting when this cannot be achieved. To realise consensus, particpants may give their "consent" to proposals meaning they can live with the proposal. This is distinct from "agreement" (your preference or first choice). Consensus means that those seeking consensus must make genuine, sustained efforts towards the consent of all participants. Consent must be genuine and cannot be obtained by force, duress or fraud. The values of consensus are also not realized if "consent" is given because participants are frustrated with the process and wanting to move on.
 
 ### Agreements
 
@@ -37,9 +37,7 @@ Formal decisions are needed for the following areas (some with the whole network
 * Agreements - creating new rules about how Enspiral works
 * Brand - using the Enspiral logo and identity publicly
 * Money - spending collective funds or for actions that impact our financial outlook 
-* Tools & Processes - how the network as a whole will work and communicate
 * Relationships - commitments as a network with individuals or entities (such as invitations to membership, appointing directors, MOUs with ventures or other entities)
-* Buy-in & Awareness - when seeking a shared sense of ownership and support from the network as a whole
 
 ###Decision Types
 This agreement sets out the types of consensus decision making protocols that are used within Enspiral. These protocols are named here so they can easily be referred to in other Agreements and contexts, and people can consider which is most appropriate for the situation. 
@@ -56,7 +54,7 @@ Additionally, we have other types of formal decisions for specific circumstances
 
 | Type | Passing Criteria | Engagement Threshold | Minimum Timeframe | Description |
 | -- | -- | -- | -- | -- |
-| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position agree | None | 5 working days (10 working days encouraged when possible) | This option should be used for more consequential decisions, such as changes to [Enspiral Agreements](agreements.html). |
+| Significant Decision | Passes as long as there are no blocks and more than 50% of those stating a position consent | None | 5 working days (10 working days encouraged when possible) | This option should be used for more consequential decisions, such as changes to [Enspiral Agreements](agreements.html). |
 | Quorum Decision  | Passes as long as there are no blocks.| Requires at least 75% of all eligible voters to agree or abstain (meaning at least ¾ of all group members must participate) | 5 working days (10 working days encouraged when possible) | This option is used when a Special Resolution (as defined in the [Constitution](constitution.html)) is required |
 | Emergency Decision | Passes even if there are blocks, but requires 75% of those stating a position to agree | None | 10 working days. If faster action is required, the board can exercise its emergency powers. | This option is a safeguard when the normal decision making processes fails. This option is only used in specific circumstances where a minority block would be destructive, such as removing a member, contributor, catalyst or venture from the community or a role. |
 
@@ -87,24 +85,4 @@ A decision to block should not be taken lightly, but if you feel strongly about 
 
 *Note: Blocks by Enspiral Members are binding. The question of whether blocks by contributors are or should be binding as well is ambiguous, with people in the community feeling strongly both ways. That ambiguity is intentionally left unresolved in this agreement.* 
 
-###Decision Culture & Practice
-While this document defines our formal decision making protocols, the effectiveness of our decision-making practice depends on our collective culture. The following principles have been found to be helpful in supporting formal decision-making at Enspiral.
 
-
-**Your Participation**
-
-* Share your genuine and honest views and opinions.
-* Be succinct and clear in your communication.
-* Modulate the volume of your contributions to leave space for equitable participation from others.
-* Practice empathy and ask questions. Listen to understand, not to find fault.
-* Actively engage in order to help the group make progress.
-* Be prepared to have your mind changed - don’t be overly attached to your ideas.
-* Consciously embrace diverse perspectives to reveal blind spots.
-* Ask for help if you are not adequately engaged or don't understand an issue.
-
-**Enriching Engagement**
-
-* Open multiple channels to get well-rounded input (not just Loomio, not just online).
-* Involve people who are not in your geographical location and those you do not work with regularly.
-* If you encounter tension, conflict, or confusion, escalate communication to a higher bandwidth channel (Loomio to chat, chat to video, video to one-on-one, one-on-one to mediation by a third party), and then report outcomes back to the group.
-* Take considered acts of facilitation to improve the experience of the group overall (examples: inviting in those we have not yet heard from, clarifying and summarising points raised, suggesting good timing for a proposal, etc).
